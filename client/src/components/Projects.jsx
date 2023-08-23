@@ -22,8 +22,7 @@ const Projects = () => {
                 {/* Description */}
                 <p className="text-md">
                   ChatPal is a chat application that allows users to chat with each other in
-                  real-time. Users can also send images and emojis in the chat room. Users can also
-                  video call each other.
+                  real-time. Users can also send images and emojis in the chat room.
                 </p>
                 {/* Tech Stack */}
                 <p className="mt-5 font-bold">Technology used: </p>
